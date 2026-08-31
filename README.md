@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Vineeth Prabhakaran
 
-### Senior Software Engineer | Java | Spring Boot | Microservices | Distributed Systems | System Design | GenAI
+### Senior Software Engineer @ Morgan Stanley | Ex-Oracle
+
+**Java • Spring Boot • Microservices • Distributed Systems • System Design • GenAI**
 
 I'm a **Senior Software Engineer with 10+ years of industry experience**, specializing in building scalable, distributed, and high-performance applications using **Java, Spring, Spring Boot, Microservices, SQL, and modern web technologies**.
 
