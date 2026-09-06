@@ -176,7 +176,6 @@ I've built an interactive chatbot portfolio that provides an alternative way to 
 
 👉 **[Ask me about Vineeth](#)**
 
-> Replace `#` with your chatbot portfolio URL.
 
 ---
 
