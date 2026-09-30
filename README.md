@@ -228,7 +228,6 @@ Areas of experience include:
 - CI/CD
 - TDD / BDD
 - Technical debt remediation
-- Real-time collateral and inventory management
 
 ### Previous Experience
 
